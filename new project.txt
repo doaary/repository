@@ -1,1 +1,2 @@
 hello my git world
+it is fun to know  about Git
